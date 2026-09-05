@@ -1,0 +1,13 @@
+product_id,product_name,category,price,color,style,fit,occasion,description
+P001,Avery Relaxed Shirt,Shirt,249000,White,Minimalist,Relaxed,Office,"Kemeja putih dengan siluet rileks dan desain minimalis. Cocok digunakan untuk bekerja, meeting, dan aktivitas semi formal. Potongannya longgar dan nyaman digunakan sepanjang hari."
+P002,Luna Layered Blouse,Blouse,279000,Light Blue,Feminine,Regular,Hangout,"Blouse biru muda dengan detail layer yang feminin. Cocok untuk acara santai, brunch, dan hangout dengan tampilan lembut dan elegan."
+P003,Noir Tailored Shirt,Shirt,329000,Black,Formal,Regular,Office,"Kemeja hitam dengan tampilan rapi dan profesional. Memiliki siluet tailored yang cocok untuk meeting, presentasi, dan kebutuhan pakaian kantor."
+P004,Sage Casual Overshirt,Outer,299000,Sage,Casual,Oversized,Casual,"Overshirt berwarna sage dengan potongan oversized. Cocok digunakan sebagai outer untuk outfit santai, traveling, coffee shop, dan aktivitas akhir pekan."
+P005,Cloud Linen Shirt,Shirt,289000,Cream,Minimalist,Loose,Daily,"Kemeja linen warna cream dengan bahan ringan dan breathable. Memiliki potongan loose dengan tampilan clean yang cocok untuk penggunaan sehari-hari."
+P006,Maeve Soft Blouse,Blouse,259000,Pink,Feminine,Regular,Office,"Blouse warna soft pink dengan detail sederhana dan feminin. Cocok untuk pakaian kantor, acara semi formal, dan gaya smart casual."
+P007,Urban Boxy Shirt,Shirt,269000,Blue,Casual,Boxy,Hangout,"Kemeja boxy berwarna biru dengan siluet modern dan santai. Cocok dipadukan dengan jeans atau celana loose untuk hangout dan aktivitas casual."
+P008,Eden Workwear Shirt,Shirt,319000,Beige,Minimalist,Regular,Office,"Atasan beige yang dirancang untuk kebutuhan profesional. Desain sederhana, clean, dan mudah dipadukan untuk bekerja maupun meeting."
+P009,Mira Weekend Top,Top,199000,Yellow,Casual,Loose,Casual,"Atasan ringan berwarna kuning pastel dengan siluet loose. Nyaman digunakan untuk jalan-jalan, liburan, dan kegiatan santai."
+P010,Sora Structured Blouse,Blouse,349000,Navy,Elegant,Regular,Formal,"Blouse navy dengan struktur yang rapi dan tampilan elegan. Cocok untuk acara formal, dinner, meeting penting, dan professional event."
+P011,Nara Everyday Shirt,Shirt,229000,Brown,Casual,Relaxed,Daily,"Kemeja cokelat dengan potongan relaxed yang nyaman untuk aktivitas sehari-hari. Mudah dipadukan untuk tampilan casual dan effortless."
+P012,Ivy Oversized Shirt,Shirt,299000,Grey,Minimalist,Oversized,Office,"Kemeja abu-abu oversized dengan desain clean dan modern. Memberikan tampilan profesional yang santai dan cocok untuk bekerja atau smart casual."

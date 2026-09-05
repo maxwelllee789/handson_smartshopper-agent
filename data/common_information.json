@@ -1,0 +1,65 @@
+[
+  {
+    "info_id": "CI001",
+    "category": "shipping",
+    "title": "Estimasi Pengiriman",
+    "content": "Pesanan diproses dalam 1 sampai 2 hari kerja. Setelah diserahkan kepada kurir, estimasi pengiriman adalah 2 sampai 5 hari kerja tergantung lokasi penerima.",
+    "keywords": ["pengiriman", "estimasi", "kurir", "delivery"]
+  },
+  {
+    "info_id": "CI002",
+    "category": "shipping",
+    "title": "Melacak Pesanan",
+    "content": "Nomor resi tersedia setelah pesanan diserahkan kepada kurir. Pelanggan dapat menggunakan nomor resi untuk memantau status pengiriman.",
+    "keywords": ["resi", "tracking", "lacak", "kurir"]
+  },
+  {
+    "info_id": "CI003",
+    "category": "shipping",
+    "title": "Keterlambatan Pengiriman",
+    "content": "Pengiriman dapat mengalami keterlambatan akibat kendala operasional kurir, cuaca, hari libur, atau peningkatan volume pengiriman.",
+    "keywords": ["delay", "terlambat", "pengiriman", "kurir"]
+  },
+  {
+    "info_id": "CI004",
+    "category": "purchase",
+    "title": "Cara Melakukan Pembelian",
+    "content": "Pelanggan dapat memilih produk, menambahkan produk ke keranjang, membuka halaman checkout, mengisi alamat pengiriman, memilih metode pengiriman, kemudian menyelesaikan pembayaran.",
+    "keywords": ["beli", "pembelian", "checkout", "keranjang"]
+  },
+  {
+    "info_id": "CI005",
+    "category": "payment",
+    "title": "Konfirmasi Pembayaran",
+    "content": "Pesanan diproses setelah pembayaran berhasil dikonfirmasi oleh sistem. Status pembayaran dapat dilihat melalui halaman detail pesanan.",
+    "keywords": ["pembayaran", "payment", "konfirmasi"]
+  },
+  {
+    "info_id": "CI006",
+    "category": "purchase",
+    "title": "Pembatalan Pesanan",
+    "content": "Pembatalan pesanan dapat dilakukan selama pesanan belum masuk proses pengemasan atau belum diserahkan kepada kurir.",
+    "keywords": ["cancel", "pembatalan", "pesanan"]
+  },
+  {
+    "info_id": "CI007",
+    "category": "refund",
+    "title": "Syarat Refund",
+    "content": "Pengajuan refund dapat dilakukan maksimal 7 hari kalender setelah produk diterima. Produk harus belum digunakan, tidak rusak karena pelanggan, dan masih memiliki kelengkapan yang diperlukan.",
+    "keywords": ["refund", "pengembalian dana", "syarat"]
+  },
+  {
+    "info_id": "CI008",
+    "category": "refund",
+    "title": "Cara Mengajukan Refund",
+    "content": "Untuk mengajukan refund, pelanggan membuka detail pesanan, memilih menu pengajuan refund, mengisi alasan pengembalian, dan mengikuti petunjuk pengembalian produk.",
+    "keywords": ["refund", "cara refund", "pengembalian dana"]
+  },
+  {
+    "info_id": "CI009",
+    "category": "refund",
+    "title": "Durasi Proses Refund",
+    "content": "Setelah produk yang dikembalikan selesai diperiksa, refund diproses dalam 3 sampai 5 hari kerja. Waktu dana masuk dapat berbeda tergantung metode pembayaran.",
+    "keywords": ["refund", "durasi", "uang kembali"]
+  }
+]
